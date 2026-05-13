@@ -3,8 +3,11 @@ Mastering Any Software, Instantly. Our automated 7-phase process grants mnios th
 
 基础服务
 https://github.com/mnios-labs/MNI-MCP-Python：Python语言功能清单
+
 https://github.com/mnios-labs/MNI-MCP-Teammate：AI同事
+
 https://github.com/mnios-labs/MNI-MCP-IOT：AI物联网
+
 
 办公助手
 https://github.com/mnios-labs/MNI-MCP-Video：视频处理服务
