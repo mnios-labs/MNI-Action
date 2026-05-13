@@ -2,12 +2,9 @@
 Mastering Any Software, Instantly. Our automated 7-phase process grants mnios the power to operate any professional tool—from Blender to Excel. We've officially broken the wall between AI reasoning and real-world execution.
 
 基础服务
-https://github.com/mnios-labs/MNI-MCP-Python：Python语言功能清单
-
-https://github.com/mnios-labs/MNI-MCP-Teammate：AI同事
-
-https://github.com/mnios-labs/MNI-MCP-IOT：AI物联网
-
+https://github.com/mnios-labs/MNI-MCP-Python：Python语言功能清单  
+https://github.com/mnios-labs/MNI-MCP-Teammate：AI同事  
+https://github.com/mnios-labs/MNI-MCP-IOT：AI物联网  
 
 办公助手
 https://github.com/mnios-labs/MNI-MCP-Video：视频处理服务
